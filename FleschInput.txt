@@ -1,0 +1,54 @@
+1
+This is a sentence. So is this.
+- Unknown
+2
+Once upon a time there was an old mother pig who had three little pigs and not enough food to feed them. So when they were old enough, she sent them out into the world to seek their fortunes.
+The first little pig was very lazy. He didn't want to work at all and he built his house out of straw. The second little pig worked a little bit harder but he was somewhat lazy too and he built his house out of sticks. Then, they sang and danced and played together the rest of the day.
+- Excerpt from children's story The Three Little Pigs
+1
+Desalination Technologies: Design and Operation sets the scene for desalination technologies as a long-term solution to freshwater demand by analyzing the current demand for water, available water resources and future predicted demand. The book captures recent developments in thermal desalination (multistage flash desalination, multi-effect evaporation, vapor compression), membrane desalination (forward osmosis, reverse osmosis, pressure retarded, electrodialysis, membrane distillation, ultra-, nano-, and micro-filtration), and alternative processes such as freezing and ion exchange. Both dynamic and steady state models (from short cut, simple, to detail) of various desalination processes are discussed.
+- Excerpt from Desilination Technologies by Iqbal M. Mujtaba and Tanvir Sowgath
+1
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.
+- Charles Dickens, A Tale of Two Cities
+3
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+- Robert Frost, “The Road Not Taken”
+4
+Sounds of laughter shades of life are ringing
+Through my open ears inciting and inviting me
+Limitless undying love which shines around me like a million suns
+It calls me on and on across the universe
+- The Beatles, Across the Universe
+5
+Just as time knew to move on since the beginning
+And the seasons know exactly when to change
+Just as kindness knows no shame
+Know through all your joy and pain
+That I'll be loving you always
+- Stevie Wonder, As
+5
+Look at the way we live
+I wasn't hidin' my kid from the world
+I was hidin' the world from my kid
+From empty souls who just wake up and look to debate
+Until you starin' at your seed, you can never relate
+- Drake, Emotionless
+2
+And you call me up again just to break me like a promise
+So casually cruel in the name of being honest
+- Taylor Swift, All To Well
+1
+no sentence terminators but,there must still be 1 sentence not 0000
+- No one
+1
+!This uses periods.as.word.delimiters and can be tricky.
+- No one
+1
+be careful of    extra spaces. Some times people  double   space.Or add spaces at the end.  
+- No one   
+1
+areallylongrunonsentencewithasingleword
+- No one
